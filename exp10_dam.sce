@@ -1,3 +1,4 @@
+//Simulation of Water reservoir for the problem discussed in class
 dam_level=110                  // dam level in m
 usage=10                       // domestic usage in cms 
 pop_incr=0.1                 // population increse factor in cms
