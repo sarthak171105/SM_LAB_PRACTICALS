@@ -1,3 +1,4 @@
+//Calculation of central values for lists
 list=[1,2,9,5,4,6,3,3]
 disp("mean: ",sum(list)/length(list))
 list=gsort(list)
